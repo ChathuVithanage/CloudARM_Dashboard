@@ -1,33 +1,72 @@
-.nav-item{
-   margin: 3%;
-   padding-left: 5%;
-   
-}
-
-.chart{
-    position: absolute;
+.nav-item {
+    margin: 3%;
+    padding-left: 5%;
+  }
+  
+  .chart {
+    /* position: absolute; */
     width: 28%;
     /* margin-left: 50%;
-    margin-top: 20%; */
-    left: 30%;
+      margin-top: 20%; */
+    /* left: 30%; */
     top: 60%;
-}
-
-.topic_1{
-    position: absolute;
-    top: 50%;
-    left: 40%;
-    font-size: 15px;
-}
-
-.offcanvas{
+  }
+  
+  /* .topic_1{
+      position: absolute;
+      top: 50%;
+      left: 40%;
+      font-size: 15px;
+  } */
+  
+  .offcanvas {
     position: relative;
     width: 40%;
-}
-
-.grid{
+  }
+  
+  .grid {
     position: relative;
     top: 10%;
     left: 30%;
+  }
+  
+  .offcanvas-small {
+    max-width: 150px; /* Adjust this value to your desired width */
+  }
+  
+  .user-panel {
+    cursor: pointer;
+  }
+
+  
+.fa-th-large{
+    margin-right: 20px;
 }
 
+.fa-commenting{
+    margin-right: 20px;
+}
+
+.fa-file-image{
+    margin-right: 20px;
+}
+
+.fa-camera{
+    margin-right: 20px;
+}
+
+.fa-history{
+    margin-right: 20px; 
+}
+
+.fa-calendar-check{
+    margin-right: 20px; 
+}
+
+.fa-compass{
+    margin-right: 20px; 
+}
+
+.topic_1{
+    font-size: 20px;
+}
