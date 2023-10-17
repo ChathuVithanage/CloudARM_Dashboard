@@ -1,0 +1,33 @@
+.nav-item{
+   margin: 3%;
+   padding-left: 5%;
+   
+}
+
+.chart{
+    position: absolute;
+    width: 28%;
+    /* margin-left: 50%;
+    margin-top: 20%; */
+    left: 30%;
+    top: 60%;
+}
+
+.topic_1{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 15px;
+}
+
+.offcanvas{
+    position: relative;
+    width: 40%;
+}
+
+.grid{
+    position: relative;
+    top: 10%;
+    left: 30%;
+}
+
